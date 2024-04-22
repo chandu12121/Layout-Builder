@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.header-conatainer {
+  align-self: stretch;
+  text-align: center;
+  background-color: #cbd5e1;
+  margin-top: 64px;
+  padding: 20px;
+}
+h1 {
+  font-size: 16px;
+}
